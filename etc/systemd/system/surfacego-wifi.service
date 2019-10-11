@@ -1,0 +1,6 @@
+[Unit]
+Description=Automatically overrides ATH10K QCA6174 Wi-Fi Driver after firmware update
+
+[Service]
+Type=oneshot
+ExecStart=sh /opt/wifi-driver/script
