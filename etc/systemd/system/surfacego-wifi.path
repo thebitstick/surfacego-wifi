@@ -1,0 +1,5 @@
+[Path]
+PathModified=/usr/lib/firmware/ath10k/QCA6174/hw3.0
+
+[Install]
+WantedBy=multi-user.target
